@@ -1,2 +1,9 @@
-
 /* Your CSS Code here. */
+.holder{
+    background-color: lightblue;
+    width: 300px;
+    padding: 50px;
+    border: solid blue 15px;
+    margin: 20px;
+    box-sizing: border-box;
+}
